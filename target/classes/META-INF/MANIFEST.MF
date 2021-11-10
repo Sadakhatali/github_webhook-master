@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: sadakhatalikhannavab
+Build-Jdk: 16.0.2
+Implementation-Title: github_webhook
+Implementation-Version: 0.1
+Implementation-Vendor-Id: cn.wildfirechat
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/github_webhook
+Created-By: Maven Integration for Eclipse
+
